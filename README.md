@@ -1,4 +1,4 @@
-# ATM
+# simple atm
 Overview This is a simple ATM project implemented using HTML, CSS, and JavaScript. The project simulates basic ATM functionalities such as depositing money, withdrawing money, changing PIN, and checking the account balance.
 
 Features
